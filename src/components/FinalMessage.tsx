@@ -36,7 +36,7 @@ export const FinalMessage: React.FC = () => {
         </p> */}
 
         <p className="text-lg text-gray-700 leading-relaxed font-semibold text-center">
-          Words Won't Be Enough. So, I'm Just Saying "I Love You".
+        On your special day, I just want to remind you how amazing, beautiful, and inspiring you are. Cheers to many more memories together! 🥳✨".
         </p>
 
         <div className="text-center mt-8 text-2xl">
